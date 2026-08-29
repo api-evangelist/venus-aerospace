@@ -10,6 +10,17 @@ description: 'Venus Aerospace is a propulsion company building the Venus Rotatin
   Venus Aerospace is a hardware and flight-test organization: it publishes a public
   marketing site covering the RDRE, the VDR, its team, investors and newsroom, but no
   developer program, API, SDK or machine-readable specification of any kind.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://cdn.prod.website-files.com/689185f14513f9a00c297276/6896545ad4a23ab7d7b49564_Frame%2067.png
 url: https://raw.githubusercontent.com/api-evangelist/venus-aerospace/refs/heads/main/apis.yml
 x-type: company
